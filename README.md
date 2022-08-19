@@ -12,6 +12,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Comment Wecasa homogénéise les photos de profil des professionnels partenaires ?](https://medium.com/wecasa-fr/comment-wecasa-homog%C3%A9n%C3%A9ise-les-photos-de-profil-des-professionnels-partenaires-565372c8b68e?source=rss-e45924293732------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
