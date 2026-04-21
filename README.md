@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinhuang78&label=Profile%20views&color=0e75b6&style=flat" alt="kevinhuang78" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinhuang78" alt="kevinhuang78" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://kevinhuang.fr/](https://kevinhuang.fr/)
 
 - 📝 I regularly write articles on [https://medium.com/@kevin_huang_iim](https://medium.com/@kevin_huang_iim) and [https://dev.to/kevinhuang78](https://dev.to/kevinhuang78)
@@ -19,6 +17,7 @@
 <p align="left">
 <a href="https://fr.linkedin.com/in/k%c3%a9vin-huang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://fr.linkedin.com/in/k%c3%a9vin-huang" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9464679" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9464679" height="30" width="40" /></a>
+<a href="https://dev.to/kevinhuang78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kevinhuang78" height="30" width="40" /></a>
 <a href="https://medium.com/@kevin_huang_iim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kevin_huang_iim" height="30" width="40" /></a>
 </p>
 
