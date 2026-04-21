@@ -1,12 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Kévin Huang</h1>
-<h3 align="center">Front-end developer at Wecasa</h3>
+<h2 align="center">Front-end developer at Wecasa</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinhuang78&label=Profile%20views&color=0e75b6&style=flat" alt="kevinhuang78" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://kevinhuang.fr/](https://kevinhuang.fr/)
 
 - 📝 I regularly write articles on [https://medium.com/@kevin_huang_iim](https://medium.com/@kevin_huang_iim) and [https://dev.to/kevinhuang78](https://dev.to/kevinhuang78)
+
+- This template is done on [https://rahuldkjain.github.io/github-profile-readme-generator/](https://rahuldkjain.github.io/github-profile-readme-generator/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
