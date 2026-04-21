@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kevinhuang.fr/](https://kevinhuang.fr/)
 
-- 📝 I regularly write articles on [https://medium.com/@kevin_huang_iim](https://medium.com/@kevin_huang_iim)
+- 📝 I regularly write articles on [https://medium.com/@kevin_huang_iim](https://medium.com/@kevin_huang_iim) and [https://dev.to/kevinhuang78](https://dev.to/kevinhuang78)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
