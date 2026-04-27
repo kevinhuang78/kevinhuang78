@@ -12,6 +12,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cutting our CI time in half thanks to custom AWS runners](https://dev.to/wecasa/cutting-our-ci-time-in-half-thanks-to-custom-aws-runners-390j)
+- [Migrating Yarn 1 to 4 in an Nx Monorepo](https://dev.to/wecasa/migrating-yarn-1-to-4-in-an-nx-monorepo-5bc2)
 - [Comment Wecasa homogénéise les photos de profil des professionnels partenaires ?](https://medium.com/wecasa-fr/comment-wecasa-homog%C3%A9n%C3%A9ise-les-photos-de-profil-des-professionnels-partenaires-565372c8b68e?source=rss-e45924293732------2)
 <!-- BLOG-POST-LIST:END -->
 
